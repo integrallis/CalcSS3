@@ -1,0 +1,15 @@
+{
+  "name": "calcss3",
+  "version": "1.0.0",
+  "main": "CalcSS3.js",
+  "description": "Scientific / Simple calculator (iPhone clone)",
+  "author": "Peter Dematté (PitPik)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/integrallis/CalcSS3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PitPik/CalcSS3/issues"
+  }
+}
